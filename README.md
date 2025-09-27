@@ -73,17 +73,6 @@ Simply open `index.html` in your browser.\
 
 ------------------------------------------------------------------------
 
-## 📸 Screenshots
-
--   **Hero Section** with profile badge\
--   **Skills & Projects** grid layout\
--   **Timeline Experience**\
--   **Certifications & Achievements**
-
-*(Add screenshots or preview GIFs here)*
-
-------------------------------------------------------------------------
-
 ## 📧 Contact
 
 👩‍💻 **Narapureddy Lokitha**\
